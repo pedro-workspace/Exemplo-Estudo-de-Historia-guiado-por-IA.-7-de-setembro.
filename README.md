@@ -1,5 +1,7 @@
 # Exemplo-Estudo-de-Historia-guiado-por-IA.-7-de-setembro.
 
+#### O estudante verifica a veracidade das informações como forma de estudo
+
 ## Prompt inicial
 Guia de estudos gerado por IA: quero que gere um guia de estudos para entender o dia da independência do Brasil, neste dia, 07 de setembro. Quero que haja como um historiador formado em história do Brasil. Traga os principais acontecimentos que levaram até o dia 7 de setembro e princiapl razão deste dia ser considerado o dia da independência. Busque por fontes fidedignas.
 
