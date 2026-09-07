@@ -1,0 +1,1 @@
+# Exemplo-Estudo-de-Historia-guiado-por-IA.-7-de-setembro.
